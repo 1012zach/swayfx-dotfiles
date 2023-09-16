@@ -1,0 +1,31 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#eee" offset="0"/>
+   <stop style="stop-color:#e4e4e4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <g transform="matrix(1.009 0 0 1 -.72523 -1)">
+  <g transform="translate(1,1)">
+   <g style="opacity:.1">
+    <path transform="translate(-1,-1)" d="m14.594 19v12l10.406 6 10.406-6v-12z"/>
+   </g>
+  </g>
+ </g>
+ <path d="m24.5 35v-12l-10.5-6v12m10.5 6" style="fill:#a92819"/>
+ <path d="m35 17-10.5 6v12l10.5-6m0-12" style="fill:#dd3d28"/>
+ <path d="m24.5 11-10.5 6 10.5 6 10.5-6m-10.5-6" style="fill:#e57f75"/>
+ <path d="m24.5 15v8l-7.0005 4v-8m7.0005-4" style="fill:#dd3d28"/>
+ <path d="m31.501 27-7.0005-4v-8l7.0005 4m0 8" style="fill:#a92819"/>
+ <path d="m24.5 31-7-4 7-4 7 4m-7 4" style="fill:#d64936"/>
+ <path d="m24.5 29v-6l-5.2347-3v6m5.2347 3" style="fill:#a92819"/>
+ <path d="m26.518 21.848-2.018 1.156v6l5.2347-3v-1.844l-3.2167 1.844m0-4.156" style="fill:#dd3d28"/>
+ <path d="m26.518 22.316v3.688l3.2167-1.844m-3.2167-1.844" style="fill:#d64936"/>
+ <path d="m26.108 21.629v-3.691l-3.2167 1.848m3.2167 1.844" style="fill:#dd3d28"/>
+ <path d="m26.528 21.848-2.018 1.156-5.2418-3 5.2378-2.996 1.6124 0.922-3.2197 1.84 3.6344 2.074m-4e-3 4e-3" style="fill:#e57f75"/>
+</svg>

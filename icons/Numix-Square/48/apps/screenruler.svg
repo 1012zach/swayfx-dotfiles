@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#e5be07" offset="0"/>
+   <stop style="stop-color:#d2ae06" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path style="opacity:.02" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+ <path style="opacity:.05" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+ <path style="opacity:.1" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+ <rect style="fill:url(#bg)" rx="4" height="46" width="46" y="1" x="1"/>
+ <path style="opacity:.1" d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+ <path style="opacity:.1" d="m1 11v1h46v-1h-46zm7 3v12h1v-12h-1zm3 0v6h1v-6h-1zm3 0v6h1v-6h-1zm3 0v6h1v-6h-1zm3 0v6h1v-6h-1zm3 0v9h1v-9h-1zm3 0v6h1v-6h-1zm3 0v6h1v-6h-1zm3 0v6h1v-6h-1zm3 0v6h1v-6h-1zm3 0v12h1v-12h-1zm3 0v6h1v-6h-1zm3 0v6h1v-6h-1zm-37 14v1h3v-1h-3zm3 1v6h1v-6h-1zm0 6h-3v1h3v-1zm-3 0v-6h-1v6h1zm30-7v1h1v6h-2v1h5v-1h-2v-7h-2zm0 1h-1v1h1v-1z"/>
+ <path style="fill:#9c8502" d="m8 13v12h1v-12zm3 0v6h1v-6zm3 0v6h1v-6zm3 0v6h1v-6zm3 0v6h1v-6zm3 0v9h1v-9zm3 0v6h1v-6zm3 0v6h1v-6zm3 0v6h1v-6zm3 0v6h1v-6zm3 0v12h1v-12zm3 0v6h1v-6zm3 0v6h1v-6zm-37 14v1h3v-1zm3 1v6h1v-6zm0 6h-3v1h3zm-3 0v-6h-1v6zm30-7v1h1v6h-2v1h5v-1h-2v-7zm0 1h-1v1h1z"/>
+ <rect style="fill:#f2e586;fill-opacity:.45882" height="1" width="46" y="10" x="1"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#8a5471" offset="0"/>
+   <stop style="stop-color:#7e4c67" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path style="opacity:.02" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+ <path style="opacity:.05" d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+ <path style="opacity:.1" d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+ <rect style="fill:url(#bg)" rx="4" height="46" width="46" y="1" x="1"/>
+ <path style="opacity:.1" d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z"/>
+ <path style="fill-opacity:0.098" d="m23 10.998v2.051a11 11 0 0 0 -5.232 1.887l-1.545-1.545-2.123 2.121 1.455 1.455a11 11 0 0 0 -2.5 6.03h-2.055v3h2.191a11 11 0 0 0 2.357 5.04l-1.449 1.447 2.123 2.123 1.553-1.553a11 11 0 0 0 5.225 1.891v2.055h3v-2.191a11 11 0 0 0 5.04 -2.357l1.447 1.447 2.123-2.121-1.553-1.553a11 11 0 0 0 1.756 -4.225h2.189v-3h-2.051a11 11 0 0 0 -1.887 -5.232l1.545-1.545-2.123-2.123-1.453 1.453a11 11 0 0 0 -5.03 -2.363v-2.189h-3m1 5a8 8 0 0 1 8 8 8 8 0 0 1 -8 8 8 8 0 0 1 -8 -8 8 8 0 0 1 8 -8zm0 5a3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3z"/>
+ <path style="fill:#f9f9f9" d="m24 11.998a11 11 0 0 0 -11 11 11 11 0 0 0 11 11 11 11 0 0 0 11 -11 11 11 0 0 0 -11 -11m0 3a8 8 0 0 1 8 8 8 8 0 0 1 -8 8 8 8 0 0 1 -8 -8 8 8 0 0 1 8 -8z"/>
+ <rect style="fill:#f9f9f9" height="4" width="3" y="9.998" x="23"/>
+ <rect style="fill:#f9f9f9" height="3" width="4" y="21.998" x="11"/>
+ <rect style="fill:#f9f9f9" height="3" width="4" y="21.998" x="33"/>
+ <rect style="fill:#f9f9f9" height="4" width="3" y="31.998" x="23"/>
+ <rect style="fill:#f9f9f9" transform="rotate(-45)" height="4" width="3" y="20.232" x="-.29148"/>
+ <rect style="fill:#f9f9f9" transform="rotate(-45)" height="3" width="4" y="32.232" x="-12.291"/>
+ <rect style="fill:#f9f9f9" transform="rotate(-45)" height="3" width="4" y="32.232" x="9.7085"/>
+ <rect style="fill:#f9f9f9" transform="rotate(-45)" height="4" width="3" y="42.232" x="-.29148"/>
+ <circle cx="24" cy="22.998" r="3" style="fill:#f9f9f9;fill-rule:evenodd"/>
+</svg>

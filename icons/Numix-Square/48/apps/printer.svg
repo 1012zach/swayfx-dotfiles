@@ -1,0 +1,32 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#61cdd7" offset="0"/>
+   <stop style="stop-color:#51c8d3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect x="1" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <path d="m1 39v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <g transform="translate(-1 -.999)">
+  <g transform="translate(1,1)">
+   <g style="opacity:.1">
+    <path transform="translate(-1,-1)" d="m12 19.773v12.453c0 0.98 0.793 1.771 1.773 1.771h3.225v3.115c0 0.492 0.397 0.887 0.889 0.887h14.227c0.492 0 0.887-0.395 0.887-0.887v-3.115h3.227c0.98 0 1.771-0.791 1.771-1.771v-12.453z"/>
+   </g>
+  </g>
+ </g>
+ <path d="m12.773 16.001h22.453c0.98 0 1.773 0.793 1.773 1.773v12.453c0 0.98-0.793 1.773-1.773 1.773h-22.453c-0.98 0-1.773-0.793-1.773-1.773v-12.453c0-0.98 0.793-1.773 1.773-1.773" style="fill:#515462"/>
+ <path d="m11 24.001v6.219c0 0.98 0.801 1.781 1.781 1.781h22.438c0.98 0 1.781-0.801 1.781-1.781v-6.219m-26 0" style="fill:#212c3c"/>
+ <path d="m15 19.001h18v2h-18m0-2" style="fill:#212c3c"/>
+ <path d="m16.875 10.001c-0.492 0-0.875 0.383-0.875 0.875v9.125h16v-7l-3-3m-12.12 0" style="fill:#ececde"/>
+ <path d="m15 27.001h18v2h-18m0-2" style="fill:#515462"/>
+ <path d="m32 28.001v7.113c0 0.492-0.395 0.887-0.887 0.887h-14.227c-0.492 0-0.887-0.395-0.887-0.887v-7.113m16 0" style="fill:#ececde"/>
+ <path d="m29 10.001v3h3m-3-3" style="fill:#fff"/>
+ <path d="m29 13.001h3v3m-3-3" style="fill-opacity:.2"/>
+ <path d="m19 12.001h9v1h-9m0-1" style="fill-opacity:.702;fill:#696e78"/>
+ <path d="m19 14.001h9v1h-9m0-1" style="fill-opacity:.702;fill:#696e78"/>
+ <path d="m19 16.001h9v1h-9m0-1" style="fill-opacity:.702;fill:#696e78"/>
+ <path d="m19 18.001h6v1h-6m0-1" style="fill-opacity:.702;fill:#696e78"/>
+</svg>

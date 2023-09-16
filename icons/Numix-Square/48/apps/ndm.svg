@@ -1,0 +1,31 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="bg" x1="1" x2="47" gradientTransform="translate(-48 .00221)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#dc6564" offset="0"/>
+   <stop style="stop-color:#e07574" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
+ <path d="m1 43.25v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.05"/>
+ <path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ <rect transform="rotate(-90)" x="-47" y="1" width="46" height="46" rx="4" style="fill:url(#bg)"/>
+ <g transform="translate(55.501,3.5)"></g>
+ <g transform="translate(116.65 -2.5339)"></g>
+ <g transform="translate(0,-1004.4)">
+  <path d="m1 1043.4v4c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-4c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.1"/>
+ </g>
+ <g transform="translate(-.99504 -.997)">
+  <g transform="translate(1,1)">
+   <g style="opacity:.1">
+    <path transform="translate(-1,-1)" d="m16 13c-1 0-1 0.461-1.25 1l-1.75 7c-0.0079 5.0278-4e-3 10.075-4e-3 15.11 0 0.492 0.395 0.887 0.887 0.887h22.23c0.492 0 0.887-0.395 0.887-0.887v-15.11l-1.75-7c-0.25-0.48-0.25-1-1.25-1z"/>
+    <path d="m21.5 12h5.102l0.398 13-3-3-3 3" style="fill-opacity:.8"/>
+    <use transform="translate(-.004 .997)" width="100%" height="100%" xlink:href="#SVGCleanerId_0"/>
+   </g>
+  </g>
+ </g>
+ <path d="m15.004 11.003c-1 0-1 0.461-1.25 1l-1.75 7 12 3 12-3-1.75-7c-0.25-0.48-0.25-1-1.25-1z" style="fill:#f0efec"/>
+ <path d="m12 19.003v15.11c0 0.492 0.395 0.887 0.887 0.887h22.23c0.492 0 0.887-0.395 0.887-0.887v-15.11z" style="fill:#e7e6e1"/>
+ <path d="m21.504 11.003-0.5 13 3-3 3 3-0.398-13z" style="fill:#d64b4a"/>
+ <path id="SVGCleanerId_0" d="m21.194 19.003-0.188 5 3-3 3 3-0.156-5" style="fill:#d32e2d"/>
+ <path d="m22.004 26.003v1h-7v6h18v-6h-7v-1zm1 1h2v5h-4v-4h2zm-7 1h4v4h-1v-3h-1v3h-2zm10 0h6v4h-1v-3h-1v3h-1v-3h-1v3h-2zm-4 1v2h1v-2z" style="fill:#d32e2d;stroke-width:.07286"/>
+</svg>
